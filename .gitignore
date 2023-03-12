@@ -2,6 +2,7 @@
 /node_modules
 /public/build
 /public/hot
+/public/lotok
 /public/storage
 /storage/*.key
 /vendor
