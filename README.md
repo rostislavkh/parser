@@ -10,7 +10,7 @@
 
 ## Керування
 
-Команда ``` php artisan parse:lotok ``` згенерує файл зі всима знижками, по посиланню https://lotok.ua/discount/cat1 (Файл буде під назвою <b>discount-dd.mm.yyyy.json</b> у каталозі ``` public ```)
+Команда ``` php artisan parse:lotok ``` згенерує файл зі всима знижками, по посиланню https://lotok.ua/discount/cat1 (Файл буде під назвою``` discount-dd.mm.yyyy.json ``` у каталозі ``` public ```)
 
 ## Конфигурація
 
